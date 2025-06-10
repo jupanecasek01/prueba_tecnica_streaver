@@ -8,7 +8,7 @@
 - The application is read-only: no create, update or delete operations were considered.
 - Filtering uses exact userId values (numeric input).
 - “Read more” button navigates to a detailed post page. Post details are accessed via dynamic route /posts/[id].
-- 
+
 ### UI/UX
 - Pagination is implemented on the client side with 9 posts per page.
 - The homepage provides a clear entry point to explore posts.
