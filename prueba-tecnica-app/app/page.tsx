@@ -6,7 +6,7 @@ export default function HomePage() {
     <main className="min-h-screen flex items-center justify-center bg-gray-50 px-6">
       <div className="text-center max-w-xl">
         <h1 className="text-5xl sm:text-6xl font-extrabold text-gray-900 mb-4">
-          Welcome to the Posts Web App
+          Welcome to Posts Web App
         </h1>
         <p className="text-lg text-gray-600 mb-8">
           Discover posts from different users
